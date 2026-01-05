@@ -1,4 +1,4 @@
-package level2;
+package Level2;
 
 import java.util.Scanner;
 class PoundsToKilograms {

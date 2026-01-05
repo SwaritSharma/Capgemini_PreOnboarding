@@ -1,4 +1,4 @@
-package level1;
+package Level1;
 
 public class ProfitAndLoss {
     public static void main(String[] args) {
