@@ -1,6 +1,6 @@
 package Level1;
 
-public class SpringSeason {
+public class SpringSeasonV2 {
 
     public static boolean isSpringSeason(int month, int day) {
         return (month == 3 && day >= 20) ||
