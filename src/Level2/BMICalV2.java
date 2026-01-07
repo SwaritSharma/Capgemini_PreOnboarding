@@ -1,7 +1,7 @@
 package Level2;
 import java.util.Scanner;
 
-public class BMICal
+public class BMICalV2
 {
 
     public static double calculateBMI(double weightKg, double heightCm) {
