@@ -2,44 +2,23 @@ package Level1;
 
 public class SpringSeason {
 
-    static {
-        System.out.println("Enter month first");
-        System.out.println("Enter day now");
+    public static boolean isSpringSeason(int month, int day) {
+        return (month == 3 && day >= 20) ||
+                (month > 3 && month < 6) ||
+                (month == 6 && day <= 20);
     }
 
     public static void main(String[] args) {
 
-        String month = args[0];
+        int month = Integer.parseInt(args[0]);
         int day = Integer.parseInt(args[1]);
 
-        if (day < 1 || day > 31) {
-            System.out.println("Invalid Date");
-            return;
-        }
+        System.out.println("Entered Month: " + month);
+        System.out.println("Entered Day: " + day);
 
-        switch (month.toLowerCase()) {
-
-            case "march":
-                if (day >= 20)
-                    System.out.println("Spring Season");
-                else
-                    System.out.println("Not Spring Season");
-                break;
-
-            case "april":
-            case "may":
-                System.out.println("Spring Season");
-                break;
-
-            case "june":
-                if (day <= 20)
-                    System.out.println("Spring Season");
-                else
-                    System.out.println("Not Spring Season");
-                break;
-
-            default:
-                System.out.println("Not Spring Season");
-        }
+        if (isSpringSeason(month, day))
+            System.out.println("Its a Spring Season");
+        else
+            System.out.println("Not a Spring Season");
     }
 }
