@@ -1,0 +1,4 @@
+My name is SWARIT SHARMA.
+I am learning Java InputStreamReader.
+This file is encoded in UTF-8.
+InputStreamReader converts bytes into characters.
