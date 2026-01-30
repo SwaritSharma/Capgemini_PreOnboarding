@@ -1,0 +1,11 @@
+My name is SWARIT SHARMA.
+I am a Computer Science student and an aspiring Software Engineer.
+
+I am currently associated with Capgemini, where I am undergoing pre-onboarding training.
+This experience is helping me understand how the IT industry works in real-world projects.
+
+I am learning Java programming and strengthening my fundamentals in data structures,
+sorting algorithms, searching techniques, and file handling.
+
+I believe in learning concepts deeply rather than memorizing code.
+My goal is to grow as a disciplined and skilled software engineer.
