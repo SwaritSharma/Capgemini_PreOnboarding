@@ -1,0 +1,3 @@
+this is java streams
+file handling is very important
+buffered streams are fast

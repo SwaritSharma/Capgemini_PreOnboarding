@@ -1,0 +1,3 @@
+This is a large file used for testing buffered and unbuffered streams.
+Java IO streams improve performance.
+This line is repeated many times to increase file size.
