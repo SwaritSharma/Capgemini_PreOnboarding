@@ -3,8 +3,6 @@ package Javaeight;
 import java.util.*;
 import java.util.stream.*;
 
-
-
 public class FraudDetection {
     public static void main(String[] args) {
 
