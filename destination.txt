@@ -1,0 +1,3 @@
+This is the source file.
+Java FileInputStream example.
+File handling in Java is important.
