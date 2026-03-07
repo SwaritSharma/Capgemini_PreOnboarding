@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CG_PreOnboarding_Training.iml" filepath="$PROJECT_DIR$/CG_PreOnboarding_Training.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JUnitTesting.iml" filepath="$PROJECT_DIR$/JUnitTesting.iml" />
     </modules>
   </component>
 </project>
